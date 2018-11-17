@@ -6,6 +6,9 @@ With the combination of VueJs and Bootstrap 4, a "Selectbox" component that work
 ## new versions usage and live demo
 https://jsfiddle.net/user/muammerkeles/fiddles/
 
+
+
+previosly
 ~~https://codepen.io/muammer/pen/yQOWWQ~~
 
 ~~## usage~~
@@ -13,7 +16,7 @@ https://jsfiddle.net/user/muammerkeles/fiddles/
 
 ~~`<mkselect v-on:getselected="secilen" v-bind:ajaxsettings="Ajaxettings"></mkselect>
   `~~
-  
+~~  
  ```
  return {
         AjaxSettings: {
@@ -25,7 +28,9 @@ https://jsfiddle.net/user/muammerkeles/fiddles/
         };
       },
 ```
+~~
 
+~~
   ### example
 ```
 var app = new Vue({
@@ -50,3 +55,4 @@ var app = new Vue({
   }
 });
 ```
+~~
