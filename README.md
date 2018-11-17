@@ -3,14 +3,16 @@ Searchbox Select Component
 
 With the combination of VueJs and Bootstrap 4, a "Selectbox" component that works like "Autocomplete" with `Ajax` is being built.
 
-live demo
-https://codepen.io/muammer/pen/yQOWWQ
+## new versions usage and live demo
+https://jsfiddle.net/user/muammerkeles/fiddles/
 
-## usage
-https://codepen.io/muammer/pen/PxbbPv
+~~https://codepen.io/muammer/pen/yQOWWQ~~
 
-`<mkselect v-on:getselected="secilen" v-bind:ajaxsettings="Ajaxettings"></mkselect>
-  `
+~~## usage~~
+~~https://codepen.io/muammer/pen/PxbbPv~~
+
+~~`<mkselect v-on:getselected="secilen" v-bind:ajaxsettings="Ajaxettings"></mkselect>
+  `~~
   
  ```
  return {
