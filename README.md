@@ -1,4 +1,4 @@
-# vuejs multifunctional select component
+# vuejs multifunctional 'SelectBox' component
 
 With the combination of VueJs and Bootstrap 4, a "Selectbox" component that works like "Autocomplete" with `Ajax` is being built.
 
